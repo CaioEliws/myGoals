@@ -1,1 +1,1 @@
-Desenvolvi um aplicativo durante a aula prática de React Native da Rocketseat. Esse aplicativo permite você criar metas financeiras, com funcionalidades de transação e saque. Foi uma grande experiencia com React Native, Typescript, Expo, Expo Router, NativeWind, Tailwindcss, SQLite.
+Desenvolvi um aplicativo durante a aula prática de React Native da Rocketseat. Esse aplicativo permite você criar metas financeiras, com funcionalidades de transação e saque. Foi uma grande experiencia com a presença de React Native, Typescript, Expo, Expo Router, NativeWind, Tailwindcss, SQLite.
